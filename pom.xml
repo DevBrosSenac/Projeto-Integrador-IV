@@ -16,7 +16,7 @@
 
 		<version.hibernate>5.2.10.Final</version.hibernate>
 		<version.mysql.connector>8.0.17</version.mysql.connector>
-		<version.junit>4.12</version.junit>
+		<version.junit>4.13.1</version.junit>
 		<version.javax.faces>2.2</version.javax.faces>
 		<version.javax.servlet>2.5</version.javax.servlet>
 		<version.javax.el>2.2</version.javax.el>
